@@ -1,0 +1,69 @@
+Assignment: Employee Attrition Prediction using Artificial Neural Networks (ANN)
+
+Objective
+
+Build an Artificial Neural Network (ANN) model that predicts whether an
+employee is likely to leave a company based on their personal and
+professional information.
+
+Business Problem
+
+Employee attrition is a major challenge for organizations. High
+attrition leads to increased hiring costs, loss of productivity, and
+reduced team stability. As an AI Engineer, your task is to build a
+predictive model that helps the HR department identify employees who are
+at risk of leaving the organization.
+
+Dataset
+
+Use the IBM HR Analytics Employee Attrition & Performance dataset from
+Kaggle.
+
+Target Variable: - Attrition (Yes/No)
+
+Tasks
+
+1.  Load and explore the dataset.
+2.  Perform data cleaning.
+3.  Handle missing values (if any).
+4.  Encode categorical variables.
+5.  Perform feature scaling where required.
+6.  Split the dataset into training and testing sets.
+7.  Build an ANN using TensorFlow/Keras.
+8.  Experiment with:
+    -   Number of hidden layers
+    -   Number of neurons
+    -   Activation functions
+    -   Batch size
+    -   Number of epochs
+9.  Apply at least one regularization technique such as Dropout or Early
+    Stopping.
+10. Evaluate your model using:
+    -   Accuracy
+    -   Precision
+    -   Recall
+    -   F1-Score
+    -   Confusion Matrix
+11. Compare training and validation performance.
+12. Write a short conclusion discussing your results and possible
+    improvements.
+
+Bonus (Optional)
+
+-   Compare ANN with Logistic Regression or Random Forest.
+-   Build a simple Streamlit application for prediction.
+-   Explain predictions using SHAP.
+
+Deliverables
+
+Submit the following: - Python Notebook (.ipynb) - Source Code - Trained
+Model - Project Report (2–3 pages) - GitHub Repository Link (Optional)
+
+Submission Guidelines
+
+-   Write clean, well-commented code.
+-   Use meaningful variable names.
+-   Include visualizations wherever appropriate.
+-   Ensure the notebook runs without errors.
+
+All the best!
